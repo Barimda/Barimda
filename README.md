@@ -1,14 +1,4 @@
 <h1 align="center">
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
-Привет! 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Я начинающий разработчик, который учится писать красивый код</h3>
-
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barimda&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
 
 <h1 align="center">Лучшие проекты</h1>
 
@@ -17,10 +7,10 @@
 <!-- Column 1 -->
 <td align="top">
 <div id="AndroidProjects" align="center">
-	<img src="https://seeklogo.com/images/A/android-studio-logo-1EE788C6EC-seeklogo.com.png" height="100">
-	<h3>Android</h3>
+	<img src="https://static.vecteezy.com/system/resources/thumbnails/002/497/161/small/journalist-logo-icon-concept-horse-chess-and-pen-nib-elements-flat-design-suitable-for-press-writer-business-vector.jpg" height="100">
+	<h3>Chess (sample)</h3>
 	
-    Проекты на Java / Kotlin
+    Шахматы без бота
     
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -30,10 +20,10 @@
 <!-- Column 2 -->
 <td>
 <div id="AndroidProjects" align="center">
-	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" height="100">
-	<h3>Java</h3>
+	<img src="https://user-images.githubusercontent.com/38243797/206913791-5f71d609-604d-4705-916b-d3345771007a.png" height="100">
+	<h3>Pass WPA generator</h3>
 	
-    Консольные приложения
+    Создание WPA-PSK паролей
     
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -43,10 +33,10 @@
 <!-- Column 3 -->
 <td>
 <div id="AndroidProjects" align="center">
-	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/512px-Visual_Studio_Icon_2019.svg.png?20210214224138" height="110">
-	<h3>C#</h3>
+	<img src="https://images-platform.99static.com//HLazUsgQHRw_PY_HvEJSvxdqJjc=/0x0:1250x1250/fit-in/500x500/99designs-contests-attachments/128/128923/attachment_128923242" height="100">
+	<h3>Drone</h3>
 	
-    Настольные приложения WinForms
+    SOC-проект
     
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -55,4 +45,9 @@
 </tr>
 </table>
 
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barimda&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
